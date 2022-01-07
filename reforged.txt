@@ -1,0 +1,57 @@
+Evergood Reforged 0.1.1
+
+Added Assembly Line Machines
+Added Beyond Earth
+Added Biomes O' Plenty + TerraBlender
+Added Chisel & Bits
+Added Compact Machines
+Added Create Crafts & Additions
+Added Create Deco
+Added Creeper Overhaul
+Added DrawerFPS
+Added Engineer's Decor
+Added Iron Furnaces
+Added Mob Grinding Utils
+Added Ring of Ascension
+Added Squat Grow
+Added Starlight
+Added Trashslot
+Added XNet + RFTools Base + McJtyLib
+
+Updated Forge to 39.0.10
+
+Updated Applied Energistics 2
+Updated Architectury
+Updated Ars Nouveau
+Updated Balm
+Updated Better Compatibility Checker
+Updated Bigger Reactors
+Updated CC: Tweaked
+Updated Chipped
+Updated Controlling
+Updated Crafting Tweaks
+Updated Cucumber Library
+Updated Cyclic
+Updated FancyMenu
+Updated Farmer's Delight
+Updated Fast Leaf Decay
+Updated Immersive Engineering
+Updated JourneyMap
+Updated JEI
+Updated Konkrete
+Updated KubeJS
+Updated More Ore Stones
+Updated mutil
+Updated OAuth
+Updated Patchouli
+Updated Phosphophyllite
+Updated Pickle Tweaks
+Updated Placebo
+Updated Polymorph
+Updated Rhino
+Updated Sophisticated Backpacks
+Updated Storage Drawers 
+Updated Supplementaries
+Updated Terralith
+Updated Tetra
+Updated Valhelsia Core
