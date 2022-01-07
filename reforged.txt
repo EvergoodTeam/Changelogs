@@ -10,6 +10,8 @@ Added Create Deco
 Added Creeper Overhaul
 Added DrawerFPS
 Added Engineer's Decor
+Added FTB Quests + Item Filters + FTB Library + FTB Teams
+Added FTB Chunks
 Added Iron Furnaces
 Added Mob Grinding Utils
 Added Ring of Ascension
