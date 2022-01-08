@@ -47,6 +47,7 @@ Updated JourneyMap
 Updated JEI
 Updated Konkrete
 Updated KubeJS
+Updated Lootr
 Updated More Ore Stones
 Updated mutil
 Updated OAuth
@@ -62,4 +63,5 @@ Updated SuperMartijn642's Core Lib
 Updated Supplementaries
 Updated Terralith
 Updated Tetra
+Updated Trash Cans
 Updated Valhelsia Core
