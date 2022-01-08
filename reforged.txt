@@ -25,6 +25,7 @@ Started work on Quests
 Changed the Capacitor recipe
 Changed the Inscriber recipe
 Changed the LV Accumulator recipe
+Changed the Engineer's Hammer recipe
 
 Updated Forge to 39.0.10
 
