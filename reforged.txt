@@ -37,6 +37,7 @@ Updated Architectury
 Updated Ars Nouveau
 Updated Balm
 Updated Better Compatibility Checker
+Updated Better Fps - Render Distance
 Updated Bigger Reactors
 Updated CC: Tweaked
 Updated Chipped
