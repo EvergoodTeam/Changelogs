@@ -17,7 +17,7 @@ Added Mob Grinding Utils
 Added Rechiseled
 Added Ring of Ascension
 Added Squat Grow
-Added Starlight
+//Added Starlight
 Added Tom's Simple Storage Mod
 Added Trashslot
 Added XNet + RFTools Base + McJtyLib
