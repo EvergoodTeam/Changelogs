@@ -44,6 +44,7 @@ Updated Chipped
 Updated Controlling
 Updated Crafting Tweaks
 Updated Cucumber Library
+Updated Curious API
 Updated Cyclic
 Updated FancyMenu
 Updated Farmer's Delight
