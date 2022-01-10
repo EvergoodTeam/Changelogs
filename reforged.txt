@@ -43,12 +43,16 @@ Updated CC: Tweaked
 Updated Chipped
 Updated Controlling
 Updated Crafting Tweaks
+Updated Create
 Updated Cucumber Library
 Updated Curious API
 Updated Cyclic
+Updated Excavation
 Updated FancyMenu
 Updated Farmer's Delight
 Updated Fast Leaf Decay
+Updated Flywheel
+Updated Game Menu Mod Option
 Updated Immersive Engineering
 Updated JourneyMap
 Updated JEI
