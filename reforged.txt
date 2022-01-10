@@ -8,6 +8,7 @@ Added Compact Machines
 Added Create Crafts & Additions
 Added Create Deco
 Added Creeper Overhaul
+Added Custom Starter Gear
 Added DrawerFPS
 Added Engineer's Decor
 Added FTB Quests + Item Filters + FTB Library + FTB Teams
