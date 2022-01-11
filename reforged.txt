@@ -31,6 +31,7 @@ Changed the Engineer's Hammer recipe
 Changed the Copper, Silver, Iron, Gold, Emerald and Netherite Furnace recipe
 Changed the Engineer's Workbench recipe
 Changed the Gearbox recipe
+Changed the Simple Fluid Mixer recipe
 
 Updated Forge to 39.0.18
 
