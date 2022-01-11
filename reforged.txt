@@ -30,7 +30,7 @@ Changed the LV Accumulator recipe
 Changed the Engineer's Hammer recipe
 Changed the Copper, Silver, Iron, Gold, Emerald and Netherite Furnace recipe
 
-Updated Forge to 39.0.10
+Updated Forge to 39.0.18
 
 Updated Applied Energistics 2
 Updated Architectury
