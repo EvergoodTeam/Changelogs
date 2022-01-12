@@ -10,6 +10,7 @@ Added Create Deco
 Added Creeper Overhaul
 Added DrawerFPS
 Added Engineer's Decor
+Added Enhanced Celestials
 Added FTB Quests + Item Filters + FTB Library + FTB Teams
 Added FTB Chunks
 Added Iron Furnaces
