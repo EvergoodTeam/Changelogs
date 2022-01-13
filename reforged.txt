@@ -35,7 +35,7 @@ Changed the Gearbox recipe
 Changed the Simple Fluid Mixer recipe
 Changed the Simple Grinder recipe
 
-Updated Forge to 39.0.18
+Updated Forge to 39.0.19
 
 Updated Applied Energistics 2
 Updated Architectury
