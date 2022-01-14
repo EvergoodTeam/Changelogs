@@ -37,6 +37,8 @@ Changed the Simple Grinder recipe
 Changed the Centrifuge recipe
 Changed the Powered Centrifuge recipe
 
+Removed the Beyond Earth Steel recipe
+
 Updated Forge to 39.0.19
 
 Updated Applied Energistics 2
