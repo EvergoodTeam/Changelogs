@@ -34,6 +34,7 @@ Changed the Engineer's Workbench recipe
 Changed the Gearbox recipe
 Changed the Simple Fluid Mixer recipe
 Changed the Simple Grinder recipe
+Changed the Centrifuge recipe
 
 Updated Forge to 39.0.19
 
