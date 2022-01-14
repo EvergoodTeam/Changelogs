@@ -35,6 +35,7 @@ Changed the Gearbox recipe
 Changed the Simple Fluid Mixer recipe
 Changed the Simple Grinder recipe
 Changed the Centrifuge recipe
+Changed the Powered Centrifuge recipe
 
 Updated Forge to 39.0.19
 
