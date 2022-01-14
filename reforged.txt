@@ -36,6 +36,7 @@ Changed the Simple Fluid Mixer recipe
 Changed the Simple Grinder recipe
 Changed the Centrifuge recipe
 Changed the Powered Centrifuge recipe
+Changed the Engineer's Wire Cutters recipe
 
 Removed the Beyond Earth Steel recipe
 
