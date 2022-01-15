@@ -54,6 +54,7 @@ Updated Bigger Reactors
 Updated CC: Tweaked
 Updated Chipped
 Updated Controlling
+Updated Cooking for Blockheads
 Updated Crafting Tweaks
 Updated Create
 Updated Cucumber Library
