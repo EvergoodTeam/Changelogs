@@ -47,7 +47,7 @@ Changed the Heavy Engineering Block recipe
 
 Removed the Beyond Earth Steel recipe
 
-Updated Forge to 39.0.19
+Updated Forge to 39.0.20
 
 Updated Applied Energistics 2
 Updated Architectury
