@@ -41,6 +41,7 @@ Changed the Centrifuge recipe
 Changed the Powered Centrifuge recipe
 Changed the Redstone Engineering Block recipe
 Changed the Light Engineering Block recipe
+Changed the Heavy Engineering Block recipe
 
 Removed the Beyond Earth Steel recipe
 
