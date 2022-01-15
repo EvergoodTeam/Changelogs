@@ -26,6 +26,7 @@ Added Trashslot
 Added XNet + RFTools Base + McJtyLib
 
 Version bump
+Added a new window icon
 Started work on Quests
 Changed the Capacitor recipe
 Changed the Inscriber recipe
