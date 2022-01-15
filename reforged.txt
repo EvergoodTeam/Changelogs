@@ -76,6 +76,7 @@ Updated KubeJS
 Updated Lootr
 Updated More Ore Stones
 Updated mutil
+Updated Not Enough Crashes
 Updated OAuth
 Updated Patchouli
 Updated Phosphophyllite
