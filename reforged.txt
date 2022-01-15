@@ -27,7 +27,7 @@ Added XNet + RFTools Base + McJtyLib
 
 Version bump
 Added a new window icon
-Started work on Quests
+Started work on Quests, which are going to be updated with each Modpack update
 Changed the Capacitor recipe
 Changed the Inscriber recipe
 Changed the LV Accumulator recipe
