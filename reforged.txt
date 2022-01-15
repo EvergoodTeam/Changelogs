@@ -70,6 +70,7 @@ Updated GeckoLib
 Updated Immersive Engineering
 Updated JourneyMap
 Updated JEI
+Updated KleeSlabs
 Updated Konkrete
 Updated KubeJS
 Updated Lootr
