@@ -17,6 +17,7 @@ Added FTB Quests + Item Filters + FTB Library + FTB Teams
 Added FTB Chunks
 Added Iron Furnaces
 Added Mob Grinding Utils
+Added Occultism
 Added Rechiseled
 Added Ring of Ascension
 Added Squat Grow
