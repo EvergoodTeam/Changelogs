@@ -16,6 +16,7 @@ Added Extended Crafting
 Added FTB Quests + Item Filters + FTB Library + FTB Teams
 Added FTB Chunks
 Added Iron Furnaces
+Added Malum
 Added Mob Grinding Utils
 Added Occultism
 Added Rechiseled
