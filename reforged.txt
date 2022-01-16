@@ -6,7 +6,7 @@ Added Beyond Earth: Giselle Addon
 Added Biomes O' Plenty + TerraBlender
 Added Chisel & Bits
 Added Compact Machines
-Added Cosmos Portals
+Added Cosmos Portals + Cosmos Library
 Added Create Crafts & Additions
 Added Create Deco
 Added Creeper Overhaul
