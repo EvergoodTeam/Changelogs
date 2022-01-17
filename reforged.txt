@@ -18,6 +18,7 @@ Added FTB Quests + Item Filters + FTB Library + FTB Teams
 Added FTB Chunks
 Added Iron Furnaces
 Added Krypton Reforged
+Added KubeJS Immersive Engineering
 Added Malum
 Added Mob Grinding Utils
 Added Occultism
