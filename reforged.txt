@@ -68,6 +68,7 @@ Updated Create
 Updated Cucumber Library
 Updated Curious API
 Updated Cyclic
+Updated Ender Tanks
 Updated Excavation
 Updated FancyMenu
 Updated Farmer's Delight
