@@ -48,6 +48,7 @@ Changed the Redstone Engineering Block recipe
 Changed the Light Engineering Block recipe
 Changed the Heavy Engineering Block recipe
 Lowered BOP overworld worldgen weight from 13 to 10
+Changed the Graphite recipe
 
 Removed the Beyond Earth Steel recipe
 
