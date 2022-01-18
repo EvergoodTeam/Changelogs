@@ -83,6 +83,7 @@ Updated Game Menu Mod Option
 Updated GeckoLib
 Updated GraveStone Mod
 Updated Immersive Engineering
+Updated Jade
 Updated JourneyMap
 Updated JEI
 Updated KleeSlabs
