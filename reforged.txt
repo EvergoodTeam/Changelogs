@@ -54,7 +54,7 @@ Changed the ME Controller recipe
 
 Removed the Beyond Earth Steel recipe
 
-Updated Forge to 39.0.20
+Updated Forge to 39.0.44
 
 Updated Applied Energistics 2
 Updated Architectury
