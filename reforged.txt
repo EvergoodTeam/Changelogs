@@ -59,6 +59,7 @@ Updated Forge to 39.0.20
 Updated Applied Energistics 2
 Updated Architectury
 Updated Ars Nouveau
+Updated AttributeFix
 Updated Balm
 Updated Better Compatibility Checker
 Updated Better Fps - Render Distance
