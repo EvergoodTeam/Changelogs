@@ -53,6 +53,7 @@ Changed the Graphite recipe
 Changed the Reactor Casing recipe
 Changed the ME Controller recipe
 Disabled Ender Crafting
+Changed the Mystical Agriculture Farmland recipes
 
 Removed the Beyond Earth Steel recipe
 
