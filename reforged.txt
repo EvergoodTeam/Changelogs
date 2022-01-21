@@ -23,7 +23,7 @@ Added Malum
 Added Mob Grinding Utils
 Added Occultism
 Added Phosphor Reloaded
-//Added Rechiseled
+Added Rechiseled
 Added Ring of Ascension
 Added Squat Grow
 //Added Starlight
