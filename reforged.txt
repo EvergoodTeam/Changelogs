@@ -69,6 +69,7 @@ Updated Better Fps - Render Distance
 Updated Bigger Reactors
 Updated CC: Tweaked
 Updated Chipped
+Updated Click Machine
 Updated Controlling
 Updated Cooking for Blockheads
 Updated Crafting Tweaks
