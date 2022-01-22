@@ -59,7 +59,7 @@ Changed the Mystical Agriculture Farmland recipes
 
 Removed the Beyond Earth Steel recipe
 
-Updated Forge to 39.0.45
+Updated Forge to 39.0.58
 
 Updated Applied Energistics 2
 Updated Architectury
@@ -72,6 +72,8 @@ Updated Bigger Reactors
 Updated CC: Tweaked
 Updated Chipped
 Updated Click Machine
+Updated Cloth Config API
+Updated Clumps
 Updated Controlling
 Updated Cooking for Blockheads
 Updated Crafting Tweaks
@@ -97,6 +99,7 @@ Updated Konkrete
 Updated KubeJS
 Updated Lootr
 Updated More Ore Stones
+Updated MrCrayfish's Furniture Mod
 Updated mutil
 Updated Not Enough Crashes
 Updated OAuth
