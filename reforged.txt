@@ -1,5 +1,6 @@
 Evergood Reforged 0.1.1
 
+Added Advanced Peripherals
 Added Assembly Line Machines
 Added Beyond Earth
 Added Beyond Earth: Giselle Addon
@@ -23,6 +24,7 @@ Added Malum
 Added Mob Grinding Utils
 Added Occultism
 Added Phosphor Reloaded
+Added Radium Reforged
 Added Rechiseled
 Added Ring of Ascension
 Added Squat Grow
