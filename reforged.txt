@@ -56,6 +56,7 @@ Changed the Reactor Casing recipe
 Changed the ME Controller recipe
 Disabled Ender Crafting
 Changed the Mystical Agriculture Farmland recipes
+Lowered the chances of a Quark Big Dungeon to generate
 
 Removed the Beyond Earth Steel recipe
 
