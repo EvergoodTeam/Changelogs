@@ -60,6 +60,7 @@ Lowered the chances of a Quark Big Dungeon to generate
 Lowered the chances of Create Striated Ores to generate
 Increased BOP nether wordlgen weight from 13 to 20
 Increased rare BOP nether wordlgen weight from 2 to 8
+Disabled the following BOP biomes: Shrubland, Old Growth Woodland
 
 Removed the Beyond Earth Steel recipe
 
