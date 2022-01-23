@@ -61,7 +61,7 @@ Lowered the chances of Create Striated Ores to generate
 
 Removed the Beyond Earth Steel recipe
 
-Updated Forge to 39.0.58
+Updated Forge to 39.0.59
 
 Updated Applied Energistics 2
 Updated Architectury
