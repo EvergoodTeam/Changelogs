@@ -65,7 +65,7 @@ Changed the Personal Shrinking Device recipe
 
 Removed the Beyond Earth Steel recipe
 
-Updated Forge to 39.0.44
+Updated Forge to 39.0.59
 
 Updated Applied Energistics 2
 Updated Architectury
