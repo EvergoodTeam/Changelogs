@@ -58,6 +58,7 @@ Disabled Ender Crafting
 Changed the Mystical Agriculture Farmland recipes
 Lowered the chances of a Quark Big Dungeon to generate
 Lowered the chances of Create Striated Ores to generate
+Increased BOP nether wordlgen weight from 13 to 20
 
 Removed the Beyond Earth Steel recipe
 
