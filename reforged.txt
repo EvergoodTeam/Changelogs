@@ -50,7 +50,7 @@ Changed the Powered Centrifuge recipe
 Changed the Redstone Engineering Block recipe
 Changed the Light Engineering Block recipe
 Changed the Heavy Engineering Block recipe
-Lowered BOP overworld worldgen weight from 13 to 10
+Lowered BOP overworld worldgen weight from 13 to 3
 Changed the Graphite recipe
 Changed the Reactor Casing recipe
 Changed the ME Controller recipe
