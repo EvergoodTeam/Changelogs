@@ -22,6 +22,7 @@ Added Krypton Reforged
 Added KubeJS Immersive Engineering
 Added Malum
 Added Mob Grinding Utils
+Added Nullscape
 Added Occultism
 Added Phosphor Reloaded
 Added Radium Reforged
