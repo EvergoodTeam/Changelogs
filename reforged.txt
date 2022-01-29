@@ -67,6 +67,7 @@ Removed the Beyond Earth Steel recipe
 
 Updated Forge to 39.0.59
 
+Updated Apple Skin
 Updated Applied Energistics 2
 Updated Architectury
 Updated Ars Nouveau
@@ -75,6 +76,7 @@ Updated Balm
 Updated Better Compatibility Checker
 Updated Better Fps - Render Distance
 Updated Bigger Reactors
+Updated Building Gadgets
 Updated CC: Tweaked
 Updated Chipped
 Updated Click Machine
@@ -87,6 +89,7 @@ Updated Create
 Updated Cucumber Library
 Updated Curious API
 Updated Cyclic
+Updated Drippy Loading Screen
 Updated Ender Tanks
 Updated Excavation
 Updated FancyMenu
@@ -107,6 +110,7 @@ Updated Lootr
 Updated More Ore Stones
 Updated MrCrayfish's Furniture Mod
 Updated mutil
+Updated Mystical Agriculture
 Updated Not Enough Crashes
 Updated OAuth
 Updated Patchouli
@@ -128,4 +132,5 @@ Updated Tetra
 Updated Torchmaster
 Updated Trash Cans
 Updated Valhelsia Core
+Updated Valhelsia Structures
 Updated Waystones
