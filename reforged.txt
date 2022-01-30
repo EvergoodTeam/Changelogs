@@ -72,6 +72,7 @@ Disabled the following BOP biomes: Shrubland, Old Growth Woodland, Woodland
 Changed the Personal Shrinking Device recipe
 
 Removed the Beyond Earth Steel recipe
+Removed Excavation
 
 Updated Forge to 39.0.63
 
