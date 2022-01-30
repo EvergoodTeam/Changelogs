@@ -24,9 +24,16 @@ Added Malum
 Added Mob Grinding Utils
 Added Nullscape
 Added Occultism
+Added OreExcavation
 Added Phosphor Reloaded
 Added Radium Reforged
 Added Rechiseled
+Added RFTools Builder
+Added RFTools Controls
+Added RFTools Dimensions
+Added RFTools Power
+Added RFTools Storage
+Added RFTools Utility
 Added Ring of Ascension
 Added Squat Grow
 //Added Starlight
