@@ -11,6 +11,7 @@ Added Cosmos Portals + Cosmos Library
 Added Create Crafts & Additions
 Added Create Deco
 Added Creeper Overhaul
+Added Dark Mode Everywhere
 Added DrawerFPS
 Added Engineer's Decor
 Added Enhanced Celestials
@@ -36,7 +37,7 @@ Added RFTools Storage
 Added RFTools Utility
 Added Ring of Ascension
 Added Squat Grow
-//Added Starlight
+Added Starlight X Create
 Added Tom's Simple Storage Mod
 Added Trashslot
 Added XNet + RFTools Base + McJtyLib
