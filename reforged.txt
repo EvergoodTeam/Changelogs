@@ -78,7 +78,7 @@ Updated Forge to 39.0.63
 
 Updated Apple Skin
 Updated Applied Energistics 2
-Updated Architectury
+Updated Architectury API
 Updated Ars Nouveau
 Updated AttributeFix
 Updated Balm
@@ -98,6 +98,7 @@ Updated Create
 Updated Cucumber Library
 Updated Curious API
 Updated Cyclic
+Updated Default Options
 Updated Drippy Loading Screen
 Updated Ender Tanks
 Updated FancyMenu
