@@ -44,7 +44,7 @@ Added XNet + RFTools Base + McJtyLib
 
 Version bump
 Added a new window icon
-Started work on Quests, which are going to be updated with each Modpack update
+Started work on Quests, which are going to be refined and tweaked with each Modpack update
 Changed the Capacitor recipe
 Changed the Inscriber recipe
 Changed the LV Accumulator recipe
@@ -72,6 +72,9 @@ Increased rare BOP nether wordlgen weight from 2 to 8
 Disabled the following BOP biomes: Shrubland, Old Growth Woodland, Woodland
 Changed the Personal Shrinking Device recipe
 Adapted the Dark Mode button with a smaller and more fitting button
+Changed the Chaosbark Planks recipe
+Changed the Biomes O Plenty Planks recipes
+Changed the Greenheart, Skyroot and Bloodshroom Planks recipes
 
 Removed the Beyond Earth Steel recipe
 Removed Excavation
