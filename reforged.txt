@@ -17,6 +17,7 @@ Added DrawerFPS
 Added Engineer's Decor
 Added Enhanced Celestials
 Added Extended Crafting
+Added Farsight
 Added FTB Quests + Item Filters + FTB Library + FTB Teams
 Added FTB Chunks
 Added Iron Furnaces
