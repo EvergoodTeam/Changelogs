@@ -105,6 +105,7 @@ Updated Curious API
 Updated Cyclic
 Updated Default Options
 Updated Drippy Loading Screen
+Updated Dynamic View
 Updated Ender Tanks
 Updated FancyMenu
 Updated Farmer's Delight
