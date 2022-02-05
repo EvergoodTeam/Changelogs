@@ -2,6 +2,7 @@ Evergood Reforged 0.1.1
 
 Added Advanced Peripherals
 Added Assembly Line Machines
+Added Better Mount HUD
 Added Beyond Earth
 Added Beyond Earth: Giselle Addon
 Added Biomes O' Plenty + TerraBlender
