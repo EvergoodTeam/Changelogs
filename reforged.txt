@@ -77,6 +77,7 @@ Adapted the Dark Mode button with a smaller and more fitting button
 Changed the Chaosbark Planks recipe
 Changed the Biomes O Plenty Planks recipes
 Changed the Greenheart, Skyroot and Bloodshroom Planks recipes
+Changed the Runewood Planks recipe
 
 Removed the Beyond Earth Steel recipe
 Removed Excavation
