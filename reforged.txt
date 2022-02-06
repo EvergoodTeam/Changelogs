@@ -5,7 +5,6 @@ Added Advanced Peripherals
 Added AEInfinityBooster
 Added Artifacts + ExpandAbility
 Added Assembly Line Machines
-Added Better Mount HUD
 Added Beyond Earth
 Added Beyond Earth: Giselle Addon
 Added Biomes O' Plenty + TerraBlender
