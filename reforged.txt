@@ -86,8 +86,9 @@ Temporarily disabled the Quantum Link recipe until it no longer causes a crash
 Changed the Basic Component recipe
 Changed the Advanced Component recipe
 Changed the Luminessence recipe
-Changed the Advanced Crafting Table recipe
+Changed the Elite Crafting Table recipe
 Changed the NASA Workbench recipe
+Changed the Ultimate Crafting Table recipe
 
 Removed the Beyond Earth Steel recipe
 Removed Excavation
