@@ -1,5 +1,6 @@
 Evergood Reforged 0.1.1
 
+Added Adorn + Kotlin for Forge
 Added Advanced Peripherals
 Added Artifacts + ExpandAbility
 Added Assembly Line Machines
