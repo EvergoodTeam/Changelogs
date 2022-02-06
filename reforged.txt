@@ -94,6 +94,7 @@ Changed the Luminessence recipe
 Changed the Elite Crafting Table recipe
 Changed the NASA Workbench recipe
 Changed the Ultimate Crafting Table recipe
+Changed the Machine Frame recipe
 
 Removed the Beyond Earth Steel recipe
 Removed Excavation
