@@ -79,6 +79,12 @@ Changed the Chaosbark Planks recipe
 Changed the Biomes O Plenty Planks recipes
 Changed the Greenheart, Skyroot and Bloodshroom Planks recipes
 Changed the Runewood, Soulwood Planks recipes
+Changed the Black Iron recipe
+Changed the Black Iron Frame recipe
+Temporarily disabled the Quantum Link recipe until it no longer causes a crash
+Changed the Basic Component recipe
+Changed the Advanced Component recipe
+Changed the Luminessence recipe
 
 Removed the Beyond Earth Steel recipe
 Removed Excavation
