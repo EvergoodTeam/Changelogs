@@ -2,6 +2,7 @@ Evergood Reforged 0.1.1
 
 Added Adorn + Kotlin for Forge
 Added Advanced Peripherals
+Added AEInfinityBooster
 Added Artifacts + ExpandAbility
 Added Assembly Line Machines
 Added Better Mount HUD
@@ -9,11 +10,15 @@ Added Beyond Earth
 Added Beyond Earth: Giselle Addon
 Added Biomes O' Plenty + TerraBlender
 Added Chisel & Bits
+Added Chunk Loaders
 Added Compact Machines
 Added Cosmos Portals + Cosmos Library
+Added Crash Utilities
 Added Create Crafts & Additions
 Added Create Deco
 Added Creeper Overhaul
+Added Curious Armor Stands
+Added Curious Elytra + Caelus API
 Added Dark Mode Everywhere
 Added DrawerFPS
 Added Engineer's Decor
