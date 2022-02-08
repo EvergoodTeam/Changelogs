@@ -6,3 +6,4 @@ Added Blue Skies + Structure Gel API
 Added Cave Tweaks
 
 Added the Quest Book as an item that the Players spawns with on first joining a World
+Lowered the chances of an Occultism Grove to generate
