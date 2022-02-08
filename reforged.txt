@@ -11,3 +11,4 @@ Decreased the chances for a Campsite to generate
 Increased the chances for a Mimic to spawn in a Campsite
 Disabled the generation of Blossom Trees
 Disabled the Bayou BOP Biome
+Decresed the amount of Soulstone generated
