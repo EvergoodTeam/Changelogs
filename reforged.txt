@@ -3,3 +3,5 @@ Evergood Reforged 0.1.2
 Added Rubidium
 Added Intial Inventory + CraftTweaker
 Added Blue Skies + Structure Gel API
+
+Added the Quest Book as an item that the Players spawns with on first joining a World
