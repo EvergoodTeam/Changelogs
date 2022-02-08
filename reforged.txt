@@ -6,4 +6,6 @@ Added Blue Skies + Structure Gel API
 Added Cave Tweaks
 
 Added the Quest Book as an item that the Players spawns with on first joining a World
-Lowered the chances for an Occultism Grove to generate
+Decreased the chances for an Occultism Grove to generate
+Decreased the chances for a Campsite to generate
+Increased the chances for a Mimic to spawn in a Campsite
