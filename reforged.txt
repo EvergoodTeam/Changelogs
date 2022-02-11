@@ -4,6 +4,7 @@ Added Rubidium
 Added Intial Inventory + CraftTweaker
 Added Blue Skies + Structure Gel API
 Added Cave Tweaks
+Added FTB Ultimine
 
 Added the Quest Book as an item that the Players spawns with on first joining a World
 Decreased the chances for an Occultism Grove to generate
@@ -12,3 +13,5 @@ Increased the chances for a Mimic to spawn in a Campsite
 Disabled the generation of Blossom Trees
 Disabled the Bayou, Lush Savanna BOP Biomes
 Decresed the amount of Soulstone generated
+
+Removed OreExcavation
