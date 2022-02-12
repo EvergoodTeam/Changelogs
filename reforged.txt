@@ -15,3 +15,5 @@ Disabled the Bayou, Lush Savanna BOP Biomes
 Decresed the amount of Soulstone generated
 
 Removed OreExcavation
+
+Updated Quark
