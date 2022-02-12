@@ -14,6 +14,7 @@ Disabled the generation of Blossom Trees
 Disabled the Bayou, Lush Savanna BOP Biomes
 Decreased the amount of Soulstone generated
 Decreased the amount of Uranium generated
+Added some blocks to the Squat Grow blacklist
 
 Removed OreExcavation
 
