@@ -22,9 +22,11 @@ Added some blocks to the Squat Grow blacklist
 Removed OreExcavation
 
 Updated Aquaculture 2
+Updated Architectury API
 Updated Ars Nouveau
 Updated AutoRegLib
 Updated Beyond Earth: Giselle Addon
+Updated Caelus API
 Updated Chisels & Bits
 Updated Click Machine
 Updated Cloth Config API
