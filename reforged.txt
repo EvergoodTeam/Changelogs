@@ -21,6 +21,8 @@ Added some blocks to the Squat Grow blacklist
 
 Removed OreExcavation
 
+Updated FML to 39.0.88
+
 Updated Aquaculture 2
 Updated Architectury API
 Updated Ars Nouveau
