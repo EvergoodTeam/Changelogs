@@ -5,6 +5,9 @@ Added Intial Inventory + CraftTweaker
 Added Blue Skies + Structure Gel API
 Added Cave Tweaks
 Added FTB Ultimine
+Added Oculus
+Added Create: Steam Powered
+Added Botania
 
 Added the Quest Book as an item that the Players spawns with on first joining a World
 Decreased the chances for an Occultism Grove to generate
